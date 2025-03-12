@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hola este esto es un fichero 
 Que mola mucho
 
+=======
+Este es un fichero que mola mucho
+>>>>>>> b2c593ce684f7d4cefa0bd243f61ada9208d34a1
